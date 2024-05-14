@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # NAME:Nisha.J
-# REGISTER NUMBER:212223040133
+# REGISTER NUMBER:21222304133
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
