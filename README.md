@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: B.Allen Steve Bernard
-# REGISTER NUMBER:212221220004
+# NAME: Rithick S P
+# REGISTER NUMBER:212221220043
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
