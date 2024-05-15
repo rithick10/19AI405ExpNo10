@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: B.Allen Steve Bernard
+# NAME: B.Allen Steve Bernar
 # REGISTER NUMBER:212221220004
 # Algorithm or Steps Involved:
 <ol>
